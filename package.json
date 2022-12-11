@@ -8,7 +8,7 @@
     "dependencies": {
         "body-parser": "^1.17.2",
         "ds": "^1.4.2",
-        "express": "^4.15.3",
+        "express": "^4.17.3",
         "express-handlebars": "^3.0.0",
         "favicon": "0.0.2",
         "fs": "0.0.1-security",
